@@ -4,8 +4,6 @@
 
 > **Prototype Link**
 
-Paste your Lovable prototype URL here.
-
 ```
 https://trust-unlocked-moments.lovable.app
 ```
